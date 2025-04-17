@@ -1,0 +1,4 @@
+vosk-model-en-in-0.5
+.cache
+__pycache__
+.env

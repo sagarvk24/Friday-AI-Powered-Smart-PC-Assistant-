@@ -1,0 +1,17 @@
+vosk
+pvporcupine
+pyautogui 
+pygetwindow
+edge-tts
+psutil
+requests
+pyaudio
+spacy
+pyttsx3
+gtts 
+pydub
+playsound
+pywhatkit
+python-dotenv
+spotipy
+schedule
